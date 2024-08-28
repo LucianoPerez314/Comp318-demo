@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/LucianoPerez314/Comp318-demo.git/hello"
 
 func main() {
-	fmt.Println("Hello world!")
+	hello.World()
 }
